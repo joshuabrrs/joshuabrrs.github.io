@@ -21,11 +21,16 @@ display: table;
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
+<<<<<<< HEAD
   from, to { border-color: transparent}
   50% { border-color: orange; }
 }
 .container__full-height {
     height:100vh;
+=======
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+>>>>>>> gh-pages
 }
 
 .btn-primary.active,.btn-primary:active,.btn-xl.active,.btn-xl:active,.open .dropdown-toggle.btn-primary,.open .dropdown-toggle.btn-xl{background-image:none}
