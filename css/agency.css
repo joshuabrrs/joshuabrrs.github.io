@@ -2,7 +2,7 @@
     display: none;
 }
 body {
-    overflow: hidden;
+ 
 }
 body {
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -234,7 +234,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/blue1.png');
+  background-color: #5d91ca;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
