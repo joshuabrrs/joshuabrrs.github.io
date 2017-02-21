@@ -10,7 +10,7 @@ display: table;
   animation: 
     typing 5.5s steps(60, end),
     blink-caret .75s step-end table;
-<<<<<<< HEAD
+
 }
 .a btn btn-xl page-scroll{
     -webkit-text-stroke: 1px #5d91ca;
@@ -33,13 +33,13 @@ display: table;
 .header{
     height:100vh;
 }
-=======
+
 }
 .a btn btn-xl page-scroll{
     -webkit-text-stroke: 1px #5d91ca;
 }
 
->>>>>>> master
+
 .blink_me {
   animation: blinker 1s linear infinite;
 }
