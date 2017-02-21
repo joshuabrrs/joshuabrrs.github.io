@@ -13,6 +13,9 @@ body {
 .text-primary {
   color: #2c3e50;
 }
+.container__full-height {
+    height:100vh;
+}
 p.pic {
     width: 100px;
     margin: 0 auto;
@@ -571,7 +574,7 @@ section#contact .form-group {
 }
 section#contact .form-group input,
 section#contact .form-group textarea {
-  padding: 2340px;
+  padding: 20px;
 }
 section#contact .form-group input.form-control {
   height: auto;
