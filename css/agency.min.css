@@ -15,15 +15,8 @@ display: table;
     -webkit-text-stroke: 1px #5d91ca;
 }
 
-<<<<<<< HEAD
 .blink_me {
   animation: blinker 1s linear infinite;
-=======
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
->>>>>>> gh-pages
 }
 
 @keyframes blinker {  
