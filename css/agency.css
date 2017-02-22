@@ -166,22 +166,22 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: orange;
+  color: #5d91ca;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: white;
-  border-color: white;
+  background-color:#5d91ca;
+  border-color: #5d91ca;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  color: white;
+  color: #5d91ca;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: orange;
+  background-color: #5d91ca;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -198,12 +198,12 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: white;
+  background-color:#5d91ca;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color:orange;
-  background-color:orange;
+  background-color:#5d91ca;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #222222;
+    background-color: #5d91ca;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
@@ -309,6 +309,7 @@ section h3.section-subheading {
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+    color: white;
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
@@ -429,7 +430,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #2c3e50;
+  background-color: white;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -562,8 +563,8 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222222;
-  background-image: url('../img/b3jB20q.jpg');
+  background-color: #5d91ca;
+ 
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -584,7 +585,7 @@ section#contact .form-group textarea.form-control {
   height: 236px;
 }
 section#contact .form-control:focus {
-  border-color: #2c3e50;
+  border-color:#5d91ca;
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
@@ -714,7 +715,7 @@ ul.social-buttons li a:active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #222222;
+  background-color: #5d91ca;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -725,7 +726,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #222222;
+  background-color:#5d91ca;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -756,7 +757,7 @@ ul.social-buttons li a:active {
 }
 ::selection {
   text-shadow: none;
-  background: #2c3e50;
+  background:#5d91ca;
 }
 img::selection {
   background: transparent;
