@@ -14,8 +14,8 @@ body {
 .text-primary {
   color: #2c3e50;
 }
-.container__full-height {
-    height:100vh;
+section#contact{
+    height: 100vh;
 }
 p.pic {
     width: 100px;
@@ -569,12 +569,8 @@ section#contact {
   background-position: center;
   background-repeat: no-repeat;
 }
-section#contact .section-heading {
-  color: white;
-}
-section#contact .form-group {
-  margin-bottom: 25px;
-}
+
+
 section#contact .form-group input,
 section#contact .form-group textarea {
   padding: 20px;
