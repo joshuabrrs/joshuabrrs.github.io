@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: #5d91ca;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  color: #5d91ca;
+  color: white;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:hover,
