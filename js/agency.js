@@ -17,6 +17,9 @@
         target: '.navbar-fixed-top',
         offset: 51
     });
+    $(document).bind("contextmenu",function(e) {
+     e.preventDefault();
+});
 
     // Closes the Responsive Menu on Menu Item Click
     $('.navbar-collapse ul li a').click(function(){ 
