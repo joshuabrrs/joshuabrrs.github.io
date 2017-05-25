@@ -1,29 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initiam,l-scale=1">
-    <title>Joshua Barrios</title>
-
-   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-<style>
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-</style>
-
-     <link href="css/index.css" rel="stylesheet">
-</head>
-
-
-
-
-
-
-<body>
-
-<h1 style="font-family: 'Raleway'; text-align: center;"> Under Construction </h1>
-</body>
-
+    <a-scene>
+        <a-text value="Hello, World!" position="-1 0.5 -3"></a-text>
+    <a-assets>
+      <img id="sky" src="sky-2.jpg">
+    </a-assets>
+    <a-sky src="#sky"></a-sky>
+    </a-scene>
+  </body>
 </html>
