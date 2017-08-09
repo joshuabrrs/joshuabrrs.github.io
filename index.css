@@ -40,3 +40,9 @@ h6{
 
     }
 }
+@media (max-width: 740px) {
+ .data-tilt{
+    display: none;
+
+  }
+}
