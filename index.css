@@ -11,17 +11,12 @@ html, body {
 
 
 p, h4, h5{
-    font-family: -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
-    "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+    font-family:'Source Sans Pro', sans-serif;
 }
 h6{
-    font-family: -apple-system, BlinkMacSystemFont,
-    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
-    "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
 }
+
 
 
 .row{
