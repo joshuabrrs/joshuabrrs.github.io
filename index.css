@@ -3,9 +3,11 @@
 html, body {
   height: 100%;
   min-height: 18em;
-  overflow-x:hidden;
-}
 
+}
+html {
+    overflow-x:hidden;
+}
 
 p, h4, h5{
     font-family:'Source+Sans+Pro', sans-serif;
